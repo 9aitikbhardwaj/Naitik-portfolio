@@ -45,8 +45,7 @@ If you wish to make changes or contribute to the project:
 - `script.js`: JavaScript code for interactivity.
 
 ## Deployed Link
-
-
+https://naitik-portfolio.vercel.app/
 
 
 
